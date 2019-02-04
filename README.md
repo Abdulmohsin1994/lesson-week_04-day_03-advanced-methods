@@ -4,15 +4,22 @@
 
 
 ## Agenda
-1. Loops review
-2. forEach()
-3. map()
+0. Loops review
+1. forEach()
+2. map()
 
 
-## 1. Loops
+## 0. Loops
 
+### 0.0 Say hi
+```js
+const friends = ["Ali", "Atheer", "Jack"];
 
-### 1.1 Multiply by 100 
+// For each friend in friends, print "Hi friendName!"
+// Write loop here
+```
+
+### 0.1 Multiply by 100 
 
 ```js
 const nums = [1,2,3,4,5,6,7,8,9,10];
@@ -22,7 +29,7 @@ let times100 = [];
 
 ```
 
-### 1.2 Crazy Numbers
+### 0.2 Crazy Numbers
 ```js
 
 // Thats an array with crazy numbers we cant read 😯
@@ -35,7 +42,7 @@ let total = 0;
 ```
 
 
-### 1.3 Abbreviations
+### 0.3 Abbreviations
 ```js
 const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
@@ -46,7 +53,7 @@ let dayAbbreviations = [];
 ```
 
 
-### 1.4 century20
+### 0.4 century20
 ```js
 
 const years = [1989, 2015, 2000, 1999, 2013, 1973, 2012];
@@ -59,7 +66,7 @@ let century20 =  [];
 
 
 
-### 1.5 Capitalized 
+### 0.5 Capitalized 
 
 Capitalize all the strings in the ia's array and store them in the array capitalizedIA.
 
@@ -74,7 +81,7 @@ let capitalizedIAs = [];
 ```
 
 
-### 1.6 Crazy number again !!
+### 0.6 Crazy number again !!
 
 ```js
 
@@ -88,7 +95,17 @@ let totalNumbersUnder4000 = 0;
 ```
 
 
-## 2. forEach()
+## 1. forEach()
+
+
+### 1.0 Say hi
+```js
+const friends = ["Ali", "Atheer", "Jack"];
+
+// For each friend in friends, print "Hi friendName!"
+// Write your solution here
+```
+
 
 ### 1.1 Crazy Numbers
 ```js
@@ -115,7 +132,7 @@ let totalNumbersUnder4000 = 0;
 
 ```
 
-## 3. map()
+## 2. map()
 
 ### 3.1 Multiply by 100 
 
