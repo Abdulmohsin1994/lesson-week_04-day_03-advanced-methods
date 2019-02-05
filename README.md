@@ -1,4 +1,4 @@
-# Advanced Methods
+# Advanced Methods in JS
 
 ![](https://jatinmandav.files.wordpress.com/2017/01/i-heard-you-like-arrays-so-i-put-an-array-in-your-array-so-you-c.jpg?w=383&h=383)
 
